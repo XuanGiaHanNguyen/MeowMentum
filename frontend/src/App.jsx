@@ -4,13 +4,16 @@ import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/Login";
 
 function App() {
+
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<LandingPage />} />
-        <Route path="/login" element={<LoginPage />} />
-      </Routes>
-    </Router>
+
+      <Router>
+        <Routes>
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/login" element={<LoginPage />} />
+        </Routes>
+      </Router>
+
   );
 }
 
