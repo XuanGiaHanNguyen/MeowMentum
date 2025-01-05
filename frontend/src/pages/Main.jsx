@@ -75,13 +75,13 @@ const MainPage = () => {
             className="flex-1 p-4 bg-gray-100 flex-start"
           >
               <div className=" h-full grid grid-rows-3 grid-cols-3">
-                <div className=" rounded-xl m-2" style={{backgroundColor: '#c7e6ed'}}></div>
-                <div className=" rounded-xl m-2" style={{backgroundColor: '#c7e6ed'}}></div>
-                <div className=" row-span-2 rounded-xl m-2" style={{backgroundColor: '#c7e6ed'}}></div>
-                <div className=" rounded-xl m-2" style={{backgroundColor: '#c7e6ed'}}></div>
-                <div className=" rounded-xl m-2" style={{backgroundColor: '#c7e6ed'}}></div>
-                <div className=" col-span-2 rounded-xl m-2" style={{backgroundColor: '#c7e6ed'}}></div>
-                <div className=" rounded-xl m-2" style={{backgroundColor: '#c7e6ed'}}></div>
+                <div className=" rounded-xl m-2" style={{backgroundColor: '#fcfcfc'}}></div>
+                <div className=" rounded-xl m-2" style={{backgroundColor: '#fcfcfc'}}></div>
+                <div className=" row-span-2 rounded-xl m-2" style={{backgroundColor: '#fcfcfc'}}></div>
+                <div className=" rounded-xl m-2" style={{backgroundColor: '#fcfcfc'}}></div>
+                <div className=" rounded-xl m-2" style={{backgroundColor: '#fcfcfc'}}></div>
+                <div className=" col-span-2 rounded-xl m-2" style={{backgroundColor: '#fcfcfc'}}></div>
+                <div className=" rounded-xl m-2" style={{backgroundColor: '#fcfcfc'}}></div>
               </div>
             </div>
         </div>
