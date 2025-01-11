@@ -27,7 +27,7 @@ const LandingPage = () => {
           Turning small steps into big leaps - track your habits, boost your productivity, and make everyday a purr-fect success!
         </p>
       </div>
-      <button className="mt-10 px-40 py-7 text-white shadow-sm rounded-xl text-2xl font-bold bg-[#9AC6D1] animate-up-down hover:bg-[#86c0cf]" onClick={() => navigate("/login")}>Join Now</button>
+      <button className="mt-10 px-40 py-7 text-white shadow-sm rounded-xl text-2xl font-bold bg-[#9AC6D1] animate-up-down hover:bg-[#86c0cf]" onClick={() => navigate("/main")}>Join Now</button>
     </div>
   );
 };
