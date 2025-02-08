@@ -6,14 +6,12 @@ import Main from "./pages/Main";
 function App() {
 
   return (
-
       <Router>
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/main" element={<Main />} />
         </Routes>
       </Router>
-
   );
 }
 
